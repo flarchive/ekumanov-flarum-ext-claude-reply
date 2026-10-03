@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of ekumanov/flarum-ext-claude-reply.** Not for installation: use [Packagist](https://packagist.org/packages/ekumanov/flarum-ext-claude-reply) or the [upstream repository](https://github.com/ekumanov/flarum-ext-claude-reply).
 
-**0** versions archived · Latest: [`v1.4.3`](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tree/archive/v1.4.3) · License: `MIT` · Flarum: `^2.0`
+**14** versions archived · Latest: [`v1.4.3`](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tree/archive/v1.4.3) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-08-16 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-08-16 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-08-16 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tree/archive/v1.0.2) |
+| `v1.1.0` | 2026-08-17 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tree/archive/v1.1.0) |
+| `v1.1.1` | 2026-08-17 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tree/archive/v1.1.1) |
+| `v1.1.2` | 2026-08-17 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tree/archive/v1.1.2) |
+| `v1.2.0` | 2026-08-17 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tree/archive/v1.2.0) |
+| `v1.2.1` | 2026-09-15 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tree/archive/v1.2.1) |
+| `v1.3.0` | 2026-09-15 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tree/archive/v1.3.0) |
+| `v1.3.1` | 2026-09-15 | `^2.0` | [Browse](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tree/archive/v1.3.1) |
+
+[View all 14 versions](https://github.com/flarchive/ekumanov-flarum-ext-claude-reply/tags)
 
 Catalog entry: [packages/ekumanov-flarum-ext-claude-reply.json](https://github.com/flarchive/archive-index/blob/main/packages/ekumanov-flarum-ext-claude-reply.json)
 
